@@ -1,0 +1,264 @@
+====== BUS RESERVATION SYSTEM LOG STARTED AT: 2026-07-16T00:20:36.135174900 ======
+Database and Tables Created Successfully!
+
+====== BUS RESERVATION SYSTEM ======
+1. Add Bus 2. Search Buses 3. Book Seat 4. Cancel Ticket
+5. View Passenger Details 6. Custom Queries 7. Exit
+Enter choice: 
+
+--- ADD BUS ---
+Transaction Rolled Back! Error: Parameter index out of range (4 > number of parameters, which is 3).
+
+====== BUS RESERVATION SYSTEM ======
+1. Add Bus 2. Search Buses 3. Book Seat 4. Cancel Ticket
+5. View Passenger Details 6. Custom Queries 7. Exit
+Enter choice: 
+Program Exited. Connection Closed.
+====== BUS RESERVATION SYSTEM LOG STARTED AT: 2026-07-16T00:23:43.279026200 ======
+Database and Tables Created Successfully!
+
+====== BUS RESERVATION SYSTEM ======
+1. Add Bus 2. Search Buses 3. Book Seat 4. Cancel Ticket
+5. View Passenger Details 6. Custom Queries 7. Exit
+Enter choice: 
+
+--- ADD BUS ---
+Transaction Rolled Back! Error: Parameter index out of range (4 > number of parameters, which is 3).
+
+====== BUS RESERVATION SYSTEM ======
+1. Add Bus 2. Search Buses 3. Book Seat 4. Cancel Ticket
+5. View Passenger Details 6. Custom Queries 7. Exit
+Enter choice: 
+
+--- SEARCH BUSES ---
+Enter Source: 
+Enter Destination: 
+Total Buses Found: 0
+Transaction Committed Successfully!
+
+====== BUS RESERVATION SYSTEM ======
+1. Add Bus 2. Search Buses 3. Book Seat 4. Cancel Ticket
+5. View Passenger Details 6. Custom Queries 7. Exit
+Enter choice: 
+Program Exited. Connection Closed.
+====== BUS RESERVATION SYSTEM LOG STARTED AT: 2026-07-16T00:24:49.645062900 ======
+Database and Tables Created Successfully!
+
+====== BUS RESERVATION SYSTEM ======
+1. Add Bus 2. Search Buses 3. Book Seat 4. Cancel Ticket
+5. View Passenger Details 6. Custom Queries 7. Exit
+Enter choice: 
+====== BUS RESERVATION SYSTEM LOG STARTED AT: 2026-07-16T02:29:15.679481800 ======
+Database and Tables Created Successfully!
+
+====== BUS RESERVATION SYSTEM ======
+1. Add Bus 2. Search Buses 3. Book Seat 4. Cancel Ticket
+5. View Passenger Details 6. Custom Queries 7. Exit
+Enter choice: 
+===== BUS RESERVATION SYSTEM STARTED : 2026-07-16T04:15:36.690310300 =====
+Database and Tables Created Successfully
+
+===== BUS RESERVATION SYSTEM =====
+1. Add Bus
+2. Search Buses
+3. Book Seat
+4. Cancel Ticket
+5. View Passenger Details
+6. Custom Queries
+7. Exit
+Enter Choice : 
+====== BUS RESERVATION SYSTEM LOG STARTED AT: 2026-07-16T04:42:12.336458400 ======
+Tables Created Successfully!
+
+===== BUS RESERVATION =====
+1. Add Bus
+2. Search Bus
+3. Book Seat
+4. Update Bus
+5. Cancel Ticket
+6. Passenger Details
+7. Custom Queries
+8. Exit
+Enter choice: 
+====== BUS RESERVATION SYSTEM LOG STARTED AT: 2026-07-16T04:44:43.228531200 ======
+Tables Created Successfully!
+
+===== BUS RESERVATION =====
+1. Add Bus
+2. Search Bus
+3. Book Seat
+4. Update Bus
+5. Cancel Ticket
+6. Passenger Details
+7. Custom Queries
+8. Exit
+Enter choice: 
+====== BUS RESERVATION SYSTEM LOG STARTED AT: 2026-07-16T05:34:37.704024100 ======
+Tables Created Successfully!
+
+===== BUS RESERVATION =====
+1. Add Bus
+2. Search Bus
+3. Book Seat
+4. Update Bus
+5. Cancel Ticket
+6. Passenger Details
+7. Custom Queries
+8. Exit
+Enter choice: 
+Inserted Rows = 2
+Total Buses in DB = 2
+Transaction Committed
+
+===== BUS RESERVATION =====
+1. Add Bus
+2. Search Bus
+3. Book Seat
+4. Update Bus
+5. Cancel Ticket
+6. Passenger Details
+7. Custom Queries
+8. Exit
+Enter choice: 
+Source : 
+Destination : 
+Rows Found = 0
+Transaction Committed
+
+===== BUS RESERVATION =====
+1. Add Bus
+2. Search Bus
+3. Book Seat
+4. Update Bus
+5. Cancel Ticket
+6. Passenger Details
+7. Custom Queries
+8. Exit
+Enter choice: 
+Source : 
+Destination : 
+1 | KPN | Bangalore to Chennai | Seats: 40
+Rows Found = 1
+Transaction Committed
+
+===== BUS RESERVATION =====
+1. Add Bus
+2. Search Bus
+3. Book Seat
+4. Update Bus
+5. Cancel Ticket
+6. Passenger Details
+7. Custom Queries
+8. Exit
+Enter choice: 
+Bus Id : 
+Name : 
+Email : 
+Seat No : 
+Booking Rows = 1, Passenger Rows = 1
+Total Booking Count = 1
+Transaction Committed
+
+===== BUS RESERVATION =====
+1. Add Bus
+2. Search Bus
+3. Book Seat
+4. Update Bus
+5. Cancel Ticket
+6. Passenger Details
+7. Custom Queries
+8. Exit
+Enter choice: 
+Bus Id : 
+Name : 
+Email : 
+Seat No : 
+Transaction Rolled Back! Error: Seat Already Booked!
+
+===== BUS RESERVATION =====
+1. Add Bus
+2. Search Bus
+3. Book Seat
+4. Update Bus
+5. Cancel Ticket
+6. Passenger Details
+7. Custom Queries
+8. Exit
+Enter choice: 
+Email : 
+BookingID: 1 | Name: priya | Bus: 1 | Seat: 5 | Date: 2026-07-16
+Total Rows = 1
+Transaction Committed
+
+===== BUS RESERVATION =====
+1. Add Bus
+2. Search Bus
+3. Book Seat
+4. Update Bus
+5. Cancel Ticket
+6. Passenger Details
+7. Custom Queries
+8. Exit
+Enter choice: 
+Bus ID : 
+New Seats : 
+Updated Rows = 1
+Validation Count = 1
+Transaction Committed
+
+===== BUS RESERVATION =====
+1. Add Bus
+2. Search Bus
+3. Book Seat
+4. Update Bus
+5. Cancel Ticket
+6. Passenger Details
+7. Custom Queries
+8. Exit
+Enter choice: 
+
+--- 4 CUSTOMISED QUERIES ---
+
+QUERY 1: All Names - Bus and Passenger [UNION]
+ - KPN
+ - SRM
+ - priya
+
+QUERY 2: Buses with more than 30 seats [WHERE]
+ID: 1 | KPN - 45 Seats
+ID: 2 | SRM - 35 Seats
+
+QUERY 3: Booking Count per Bus [GROUP BY]
+Bus: KPN | Total Bookings: 1
+
+QUERY 4: Today's Bookings [JOIN + CURDATE]
+Name: priya | Email: priya@gmail.com | BookingID: 1 | Seat: 5
+Total Bookings Today = 1
+Transaction Committed
+
+===== BUS RESERVATION =====
+1. Add Bus
+2. Search Bus
+3. Book Seat
+4. Update Bus
+5. Cancel Ticket
+6. Passenger Details
+7. Custom Queries
+8. Exit
+Enter choice: 
+Booking ID : 
+Deleted Rows = 1
+Remaining Bookings = 0
+Transaction Committed
+
+===== BUS RESERVATION =====
+1. Add Bus
+2. Search Bus
+3. Book Seat
+4. Update Bus
+5. Cancel Ticket
+6. Passenger Details
+7. Custom Queries
+8. Exit
+Enter choice: 
+Exit. Connection Closed.
