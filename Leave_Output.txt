@@ -1,0 +1,33 @@
+====== EMPLOYEE LEAVE SYSTEM STARTED: 2026-07-16 ======
+DB and 3 Tables Created Successfully!
+Batch Inserted 3 Employees
+Transaction Committed
+1. Ravi | ravi1784162694300@comp.com | IT
+2. Sneha | sneha1784162694304@comp.com | HR
+3. Arun | arun1784162694305@comp.com | Finance
+Total Employees = 3
+Transaction Committed
+Employee Inserted Rows = 1
+Leave Balance Created for EmpID: 4
+Transaction Committed
+Leave Applied. Rows = 1
+Transaction Committed
+LeaveID: 1 | Emp: priya | Status: PENDING
+Total Requests = 1
+Transaction Committed
+Updated Rows = 1
+Leave Balance Updated
+Transaction Committed
+EmpID: 4 | Name: priya | Remaining: 17
+Transaction Committed
+
+--- 4 CUSTOM QUERIES ---
+CL = 1
+Name: priya
+LeaveID: 1
+Transaction Committed
+Updated Rows = 1
+Transaction Committed
+Deleted Rows = 1
+Transaction Committed
+Thank You!

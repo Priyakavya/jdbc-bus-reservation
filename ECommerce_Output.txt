@@ -1,0 +1,165 @@
+====== E-COMMERCE SYSTEM LOG STARTED AT: 2026-07-16T05:58:08.926046900 ======
+DB and Tables Created Successfully!
+====== E-COMMERCE SYSTEM LOG STARTED AT: 2026-07-16T05:59:21.065569700 ======
+DB and Tables Created Successfully!
+
+--- MENU ---
+1. View Products
+2. Add to Cart
+3. View Cart
+4. Place Order
+5. Track Order
+6. Update Product
+7. Delete Product
+8. Custom Queries
+9. Insert Sample Data
+10. Exit
+Enter choice: Batch Inserted 3 Sample Products
+
+--- MENU ---
+1. View Products
+2. Add to Cart
+3. View Cart
+4. Place Order
+5. Track Order
+6. Update Product
+7. Delete Product
+8. Custom Queries
+9. Insert Sample Data
+10. Exit
+Enter choice: Search Product Name: 1. Laptop - Rs.60000.0 - Stock:15
+Total Products Found = 1
+Transaction Committed
+
+--- MENU ---
+1. View Products
+2. Add to Cart
+3. View Cart
+4. Place Order
+5. Track Order
+6. Update Product
+7. Delete Product
+8. Custom Queries
+9. Insert Sample Data
+10. Exit
+Enter choice: Enter Product ID: Enter Quantity: Added to Cart
+Transaction Committed
+
+--- MENU ---
+1. View Products
+2. Add to Cart
+3. View Cart
+4. Place Order
+5. Track Order
+6. Update Product
+7. Delete Product
+8. Custom Queries
+9. Insert Sample Data
+10. Exit
+Enter choice: Enter Product ID: Enter Quantity: Added to Cart
+Transaction Committed
+
+--- MENU ---
+1. View Products
+2. Add to Cart
+3. View Cart
+4. Place Order
+5. Track Order
+6. Update Product
+7. Delete Product
+8. Custom Queries
+9. Insert Sample Data
+10. Exit
+Enter choice: --- YOUR CART ---
+ProductID: 1 Qty: 2
+ProductID: 2 Qty: 1
+Transaction Committed
+
+--- MENU ---
+1. View Products
+2. Add to Cart
+3. View Cart
+4. Place Order
+5. Track Order
+6. Update Product
+7. Delete Product
+8. Custom Queries
+9. Insert Sample Data
+10. Exit
+Enter choice: --- YOUR CART ---
+ProductID: 1 Qty: 2
+ProductID: 2 Qty: 1
+Transaction Committed
+
+--- MENU ---
+1. View Products
+2. Add to Cart
+3. View Cart
+4. Place Order
+5. Track Order
+6. Update Product
+7. Delete Product
+8. Custom Queries
+9. Insert Sample Data
+10. Exit
+Enter choice: Enter Customer Name: Enter Email: Customer Inserted Rows = 1
+Order Inserted Rows = 1
+OrderItems Batch Inserted = 2 | Stock Updated = 2
+Order Placed! Order ID: 1
+Transaction Committed
+
+--- MENU ---
+1. View Products
+2. Add to Cart
+3. View Cart
+4. Place Order
+5. Track Order
+6. Update Product
+7. Delete Product
+8. Custom Queries
+9. Insert Sample Data
+10. Exit
+Enter choice: Enter Order ID: Customer: priya | Status: PLACED
+Product: Laptop | Qty: 2 | Price: 60000.0
+Product: Phone | Qty: 1 | Price: 30000.0
+Total Items = 2 | Total Bill: Rs.150000.0
+Transaction Committed
+
+--- MENU ---
+1. View Products
+2. Add to Cart
+3. View Cart
+4. Place Order
+5. Track Order
+6. Update Product
+7. Delete Product
+8. Custom Queries
+9. Insert Sample Data
+10. Exit
+Enter choice: 
+--- 4 CUSTOMISED QUERIES ---
+QUERY 1: Products with stock < 10 [WHERE + ORDER BY]
+QUERY 2: Total Quantity Sold per Product [GROUP BY]
+Product: Laptop | Total Sold: 2
+Product: Phone | Total Sold: 1
+QUERY 3: Customer Order History [JOIN]
+Customer: priya | OrderID: 1 | Date: 2026-07-16
+QUERY 4: All Names - Product and Customer [UNION]
+ - Laptop
+ - Phone
+ - Mouse
+ - priya
+Transaction Committed
+
+--- MENU ---
+1. View Products
+2. Add to Cart
+3. View Cart
+4. Place Order
+5. Track Order
+6. Update Product
+7. Delete Product
+8. Custom Queries
+9. Insert Sample Data
+10. Exit
+Enter choice: Thank You!
